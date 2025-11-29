@@ -1,7 +1,4 @@
-flask
-flask-cors
-scikit-learn
-numpy
-scipy
-gunicorn
-uvicorn
+Flask==2.2.5
+scikit-learn==1.3.2
+numpy==1.26.0
+gunicorn==20.1.0
